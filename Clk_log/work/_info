@@ -50,3 +50,24 @@ r1
 !i113 0
 R3
 R4
+vvalid_ready
+!s110 1647073867
+!i10b 1
+!s100 VX]YIGRSYL<SM3bSOW>Eo0
+Idf7V_IWOm0z:VOUULPLSH1
+R0
+R1
+w1647073866
+8.\valid_ready.v
+F.\valid_ready.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1647073867.000000
+!s107 .\valid_ready.v|
+!s90 .\valid_ready.v|
+!i113 0
+R3
+R4
