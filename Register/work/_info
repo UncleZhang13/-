@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Uncle/Desktop/Verilog_Code/Niuke_Answer/Register
+vRAM_1port
+!s110 1647101886
+!i10b 1
+!s100 QMG@B>L4=ndB_QaSZbojS1
+I0AA5hP8cnL0NN5hm58EHa3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1647101882
+8.\RAM_1port.v
+F.\RAM_1port.v
+L0 5
+Z2 OL;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1647101886.000000
+!s107 .\RAM_1port.v|
+!s90 .\RAM_1port.v|
+!i113 0
+Z3 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+n@r@a@m_1port
+vram_mod
+!s110 1647101892
+!i10b 1
+!s100 ^8HCG0zW2lWdQ2^BnoZl_2
+IZh`Bn:o^L]H_^HNlRL96O3
+R1
+R0
+w1647101837
+8.\ram_mod.v
+F.\ram_mod.v
+L0 2
+R2
+r1
+!s85 0
+31
+!s108 1647101892.000000
+!s107 .\ram_mod.v|
+!s90 .\ram_mod.v|
+!i113 0
+R3
+R4
