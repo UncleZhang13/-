@@ -27,7 +27,7 @@ always @(posedge clk or negedge rst_n) begin
                     end
                     else begin
                         cnt <= cnt +1;
-                        wave <= 0;
+                        wave <= wave;
                     end
                 end
                 2'b01:begin
@@ -40,14 +40,14 @@ always @(posedge clk or negedge rst_n) begin
                 end
                 2'b10: begin
                     if(wave == 20) begin
-                        wave <= wave - 2;
-                        up <= 0;
+                        wave <= wave - 1;
+                        up = 0;
                     end
                     else if (wave == 0) begin
                         wave <= wave - 1;
-                        up <= 1;
+                        up = 1;
                     end
-                    else if (up) begin
+                    if (up) begin
                         wave <= wave + 1;
                     end
                     else begin
@@ -56,7 +56,6 @@ always @(posedge clk or negedge rst_n) begin
                 end
                 default: begin
                     wave <= 0;
-                    cnt <= 0;
                 end 
             endcase        
         end
