@@ -1,9 +1,8 @@
 
 # 牛客网答案
 
- @Autor       : RichardZhang
- @E-mail      : m15015553240@163.com
- 
+ Autor       : RichardZhang
+ E-mail      : m15015553240@163.com
  Design      :  
  Module      :  
  Devices     :  
