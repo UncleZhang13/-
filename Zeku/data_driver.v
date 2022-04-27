@@ -29,7 +29,7 @@ module data_driver(
             else data <= data + 1;
         end
         else begin
-            data <= 0;
+            data <= data;
         end
     end
 
